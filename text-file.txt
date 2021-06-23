@@ -1,9 +1,3 @@
 Welcome to this test!!!!
 
-Feature4
-
-Feature1234
-
-Feature4321
-
 Release
